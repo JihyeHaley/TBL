@@ -8,15 +8,13 @@
 
   `O(n^2)` **(**`Ω(n^2)`**)**: **Selection Search**, **(Bubble Search)**
 
-  `O(n log n)`:
+  `O(n log n)`: **Merge Sort**
 
   `O(n)` : **Linear Search**
 
   `O(log n)` : **Binary Search**
 
   `O(1)`
-
-![image](https://user-images.githubusercontent.com/58539681/89391953-d3896900-d743-11ea-94cc-6fba327ef15f.png)
 
 
 
@@ -108,9 +106,11 @@
 
 마치 거품이(비교 및 교환이) 터지면서 위로 올라오는 (배열의 옆으로 이동하는) 방식이기 때문입니다
 
+* ![image](https://user-images.githubusercontent.com/58539681/89391953-d3896900-d743-11ea-94cc-6fba327ef15f.png)
 
 
-###   O(n^2) 선택 정렬
+
+### 🍭  O(n^2) 선택 정렬
 
 <hr>
 
@@ -171,3 +171,5 @@
 
 
 이러한 정렬 방법을 **‘선택 정렬’** 이라고 합니다. 의사 코드로 아래와 같이 표현할 수 있습니다.
+
+* ![image](https://user-images.githubusercontent.com/58539681/89402233-7e545400-d751-11ea-9e35-897953a1ebef.png)
